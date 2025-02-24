@@ -11,7 +11,8 @@
 
 - How to apply Link component and how to work that
 - Programmatically navigation
-- notFount customization => not-found.js file create root of your project 
+- notFount customization => not-found.js file create root of your project
+- Css module support => about.module.css file create 
 
 
 
