@@ -1,3 +1,20 @@
+## module summery 
+## Module-1 (Fundamentals of next js)
+"# 25-2-2025; 246 AM
+
+Basic route implement
+Nested routing
+Groupe routing
+Dynamic routing and catch all routing 
+// dynamic routing
+[folderName] =>about=>page.js=>rsc=>component=>props=>{params, searchParams}
+
+How to apply Link component and how to work that
+Programmatically navigation
+notFount customization => not-found.js file create root of your project 
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
